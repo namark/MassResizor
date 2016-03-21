@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QMAKE_CXXFLAGS += -std=c++0x -U__STRICT_ANSI__
+CONFIG = c++11
 
 QT       += core gui
 
